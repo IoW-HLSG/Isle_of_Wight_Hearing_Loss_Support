@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iow-hlsg.github.io/Isle_of_Wight_Hearing_Loss_Support/sitemap.xml
